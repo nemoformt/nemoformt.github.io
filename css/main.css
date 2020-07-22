@@ -1960,7 +1960,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #57a82a;
+  background: #a81bff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2957,9 +2957,4 @@ hr {
     width: auto;
     text-align: center;
   }
-}
-body {
-  background: url("/images/nature-bg.jpg");
-  background-repeat: repeat;
-  background-attachment: fixed;
 }
